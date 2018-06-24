@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Search engine</title>
+<!-- for-mobile-apps -->
+     {% load staticfiles %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="{% static 'css/basic.css' %}" rel="stylesheet" type="text/css" media="all" />
+<link href='//fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<div class="main">
+		<h1>Search over 40million products on connect places</h1>
+		
+		<div class="search-two">
+			<form method="GET" action="{% url 'search' %}">
+				<input type="text"  name="q" placeholder="Search">
+				<input type="submit"  >
+				<div class="clear"></div>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

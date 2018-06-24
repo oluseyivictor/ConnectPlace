@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8645c4d-9e45-4e1a-a3f2-336b6e0e074e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/app_template/__init__.py-tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/app_template/migrations/__init__.py-tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/af/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ar/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ast/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/az/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/be/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bg/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bn/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/br/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bs/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ca/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/cs/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/cy/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/da/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/de/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/el/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en_AU/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en_GB/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/eo/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_CO/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_MX/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_VE/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/et/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/eu/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fa/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fi/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fr/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fy/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ga/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/gd/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/gl/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/he/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hi/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hu/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ia/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/id/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/io/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/is/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/Python-ast.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/Python.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/abstract.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/accu.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/asdl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/ast.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/bitset.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/bltinmodule.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/boolobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/bytearrayobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/bytes_methods.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/bytesobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/cellobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/ceval.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/classobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/code.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/codecs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/compile.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/complexobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/datetime.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/descrobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/dictobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/dtoa.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/dynamic_annotations.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/enumobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/errcode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/eval.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/fileobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/fileutils.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/floatobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/frameobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/funcobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/genobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/graminit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/grammar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/greenlet/greenlet.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/import.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/intrcheck.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/inttypes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/iterobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/listobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/longintrepr.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/longobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/marshal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/memoryobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/metagrammar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/methodobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/modsupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/moduleobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/namespaceobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/node.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/object.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/objimpl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/odictobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/opcode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/osdefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/osmodule.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/parsetok.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/patchlevel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pgen.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pgenheaders.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/py_curses.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pyarena.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pyatomic.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pycapsule.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pyconfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pyctype.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pydebug.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pydtrace.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pyerrors.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pyexpat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pyfpe.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pygetopt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pyhash.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pylifecycle.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pymacconfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pymacro.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pymath.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pymem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pyport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pystate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pystrcmp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pystrhex.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pystrtod.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pythonrun.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pythread.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/pytime.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/rangeobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/setobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/sliceobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/structmember.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/structseq.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/symtable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/sysmodule.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/token.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/traceback.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/tupleobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/typeslots.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/ucnhash.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/unicodeobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/warnings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Include/weakrefobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/__future__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/_bootlocale.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/_collections_abc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/_dummy_thread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/_weakrefset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/abc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/base64.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/bisect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/codecs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/collections/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/collections/abc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/copy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/copyreg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/distutils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/distutils/distutils.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/aliases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/ascii.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/base64_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/big5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/big5hkscs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/bz2_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/charmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp037.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1006.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1026.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1125.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1140.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1250.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1251.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1252.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1253.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1254.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1255.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1256.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1257.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp1258.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp273.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp424.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp437.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp500.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp65001.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp720.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp737.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp775.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp850.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp852.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp855.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp856.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp857.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp858.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp860.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp861.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp862.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp863.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp864.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp865.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp866.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp869.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp874.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp875.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp932.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp949.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/cp950.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/euc_jis_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/euc_jisx0213.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/euc_jp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/euc_kr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/gb18030.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/gb2312.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/gbk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/hex_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/hp_roman8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/hz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/idna.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso2022_jp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso2022_jp_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso2022_jp_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso2022_jp_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso2022_jp_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso2022_jp_ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso2022_kr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_14.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/iso8859_9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/johab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/koi8_r.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/koi8_t.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/koi8_u.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/kz1048.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/latin_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_arabic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_centeuro.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_croatian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_cyrillic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_farsi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_greek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_iceland.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_latin2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_roman.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_romanian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mac_turkish.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/mbcs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/oem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/palmos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/ptcp154.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/punycode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/quopri_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/raw_unicode_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/rot_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/shift_jis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/shift_jis_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/shift_jisx0213.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/tis_620.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/undefined.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/unicode_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/unicode_internal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/utf_16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/utf_16_be.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/utf_16_le.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/utf_32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/utf_32_be.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/utf_32_le.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/utf_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/utf_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/utf_8_sig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/uu_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/encodings/zlib_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/enum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/fnmatch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/functools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/genericpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/hashlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/heapq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/hmac.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/imp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/importlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/importlib/_bootstrap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/importlib/_bootstrap_external.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/importlib/abc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/importlib/machinery.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/importlib/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/io.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/keyword.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/linecache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/locale.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/no-global-site-packages.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/ntpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/operator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/orig-prefix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/os.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/posixpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/random.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/re.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/reprlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/rlcompleter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/shutil.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/Django-2.0.6.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/Django-2.0.6.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/Django-2.0.6.dist-info/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/Django-2.0.6.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/Django-2.0.6.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/Django-2.0.6.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/Django-2.0.6.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/Django-2.0.6.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/Django-2.0.6.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/apps/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/apps/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/apps/registry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/bin/django-admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/app_template/admin.py-tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/app_template/apps.py-tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/app_template/models.py-tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/app_template/tests.py-tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/app_template/views.py-tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/global_settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/af/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ar/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ar/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ar/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ast/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/az/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/az/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/az/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/be/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bg/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bg/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bg/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bn/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bn/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bn/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/br/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bs/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/bs/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ca/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ca/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ca/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/cs/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/cs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/cs/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/cy/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/cy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/cy/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/da/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/da/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/da/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/de/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/de/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/de/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/de_CH/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/de_CH/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/el/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/el/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/el/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en_AU/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en_AU/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en_AU/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en_GB/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en_GB/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/en_GB/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/eo/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/eo/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/eo/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_AR/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_AR/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_CO/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_CO/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_CO/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_MX/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_MX/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_MX/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_NI/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_NI/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_PR/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_PR/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/es_VE/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/et/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/et/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/et/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/eu/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/eu/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/eu/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fa/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fa/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fa/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fi/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fi/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fi/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fr/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fr/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fr/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fy/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/fy/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ga/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ga/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ga/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/gd/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/gd/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/gd/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/gl/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/gl/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/gl/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/he/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/he/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/he/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hi/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hi/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hi/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hr/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hr/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hr/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hu/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hu/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/hu/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/ia/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/id/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/id/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/id/formats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/io/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/is/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/king/Lib/site-packages/django/conf/locale/is/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConnectPlace/urls.py" afterPath="$PROJECT_DIR$/ConnectPlace/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homepage/urls.py" afterPath="$PROJECT_DIR$/homepage/urls.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConnectPlace/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1241">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Homepage/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/basic.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConnectPlace/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+              <folding>
+                <element signature="e#646#683#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homepage/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homepage/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="652">
+              <caret line="66" column="23" lean-forward="false" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+                <element signature="e#2814#3875#0" expanded="false" />
+                <element signature="e#4097#5079#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchpage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Homepage/searchpage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/Homepage/index.html" />
+        <option value="$PROJECT_DIR$/templates/homepage/index.html" />
+        <option value="$PROJECT_DIR$/Homepage/urls.py" />
+        <option value="$PROJECT_DIR$/templates/Homepage/searchpage.html" />
+        <option value="$PROJECT_DIR$/homepage/views.py" />
+        <option value="$PROJECT_DIR$/ConnectPlace/settings.py" />
+        <option value="$PROJECT_DIR$/ConnectPlace/urls.py" />
+        <option value="$PROJECT_DIR$/homepage/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConnectPlace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\OLUSEYI\Desktop\ConnectPlace\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.ConnectPlace">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ConnectPlace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ConnectPlace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ConnectPlace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ConnectPlace" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ConnectPlace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="ConnectPlace" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ConnectPlace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ConnectPlace" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConnectPlace" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ConnectPlace" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.ConnectPlace" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8645c4d-9e45-4e1a-a3f2-336b6e0e074e" name="Default" comment="" />
+      <created>1529816771807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529816771807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22093023" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ConnectPlace/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectPlace/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#646#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Homepage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Homepage/searchpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectPlace/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectPlace/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#646#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="66" column="23" lean-forward="false" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#2814#3875#0" expanded="false" />
+            <element signature="e#4097#5079#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

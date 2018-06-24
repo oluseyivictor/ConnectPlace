@@ -1,0 +1,328 @@
+
+/* reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,nav ul,nav li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
+ol,ul{list-style:none;margin:0px;padding:0px;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+table{border-collapse:collapse;border-spacing:0;}
+/* start editing from here */
+a{text-decoration:none;}
+.txt-rt{text-align:right;}/* text align right */
+.txt-lt{text-align:left;}/* text align left */
+.txt-center{text-align:center;}/* text align center */
+.float-rt{float:right;}/* float right */
+.float-lt{float:left;}/* float left */
+.clear{clear:both;}/* clear float */
+.pos-relative{position:relative;}/* Position Relative */
+.pos-absolute{position:absolute;}/* Position Absolute */
+.vertical-base{	vertical-align:baseline;}/* vertical align baseline */
+.vertical-top{	vertical-align:top;}/* vertical align top */
+nav.vertical ul li{	display:block;}/* vertical menu */
+nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
+img{max-width:100%;}
+/*end reset*/
+
+body{
+padding:0;
+margin:0;
+font-family: 'Open Sans', sans-serif;	
+//background: #303039;
+//background: url('../images/counter_bg.jpg') repeat 0px 0px; 
+background-size: cover;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin:0;			   
+}	
+p{
+	margin:0;
+}
+ul{
+	margin:0;
+	padding:0;
+}
+label{
+	margin:0;
+}
+/*-- main --*/
+.main{
+	padding:80px 0;
+	width:100%;
+	margin:0 auto;
+}
+.main h1{
+	font-size:28px;
+	text-align:center;
+	margin-bottom:50px;
+}
+
+.search-two{
+	text-align:center;
+	}
+.search-two input[type="text"] {
+    border: 1px solid #0066cc;
+    outline: none;
+    padding: 15px 12px 15px 48px;
+    background: url(../images/search.png) no-repeat 10px 9px #fff;
+    width: 70% !important;
+    color: #6a6f73;
+    font-weight: 100;
+    font-size: 16px;
+	font-family: 'Open Sans', sans-serif;	
+	float:left;	
+}
+.search-two form input[type="submit"]{
+background: #0066cc;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e48b', endColorstr='#a5ca60',GradientType=0 ); /* IE6-9 */
+	cursor:pointer;
+    width: 15%;
+	color:#fff;
+	font-weight:600;
+	font-size:16px;
+    padding: 15px 15px;
+    border:1px solid #aecb77;
+	text-shadow:0px 1px 0px #D0E48B;
+font-family: 'Open Sans', sans-serif;	
+display:inline-block;
+float:left;	
+
+
+}
+.search-two{
+    padding: 10px 9px;
+    width: 60% !important;
+    margin: 25px auto 0 auto;	
+	
+}
+
+.main p {
+    color: #000;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 98px;
+}
+.main p a{
+	color:#000;
+}
+.main p a:hover{
+	text-decoration:underline;
+}
+/*-- responsive media queries --*/
+
+@media (max-width: 1440px){
+.search-two {
+    width: 46%;
+	}
+}
+@media (max-width: 1366px){
+.search-two input[type="text"] {
+		width: 65%;
+	}
+	.main p {
+		margin-top: 60px;
+	}
+	.main {
+		padding: 73px 0;
+	}	
+}
+@media (max-width: 1280px){
+	.search, .search-two, .search-three, .search-four, .search-five {
+		width: 48%;
+	}
+	.main h1 {
+		font-size: 40px;
+	}	
+	.main {
+		padding: 50px 0;
+	}
+}
+@media (max-width: 1080px){
+.search-two{
+		width: 56%;
+	}
+	.main {
+    padding: 100px 0;
+	}
+}
+@media (max-width: 1024px){
+.search-two {
+		width: 59%;
+	}	
+	.main {
+		padding: 60px 0;
+	}
+	.search-two input[type="text"]  {
+		padding: 7px 12px 7px 48px;
+	}
+	.search-two form input[type="submit"] {
+		padding: 7px 10px;
+	}
+	.main h1 {
+		margin-bottom: 38px;
+	}
+	.main p {
+		margin-top: 48px;
+	}
+}
+@media (max-width: 991px){
+.search-two{
+    width: 62%;
+	margin: 38px auto 0 auto;
+	}
+	.main {
+		padding: 100px 0;
+	}
+}
+@media (max-width: 800px){
+	.search, .search-two, .search-three, .search-four, .search-five {
+    width: 78%;
+    margin: 38px auto 0 auto;
+	}
+}
+@media (max-width: 768px){
+	.search, .search-two, .search-three, .search-four, .search-five {
+    width: 79%;
+	}
+	.main h1 {
+    margin-bottom: 64px;
+	}
+	.main p {
+		margin-top: 146px;
+	}
+	.main {
+		padding: 94px 0;
+	}
+}
+@media (max-width: 736px){
+	.main {
+		padding: 75px 0;
+	}
+	.search, .search-two, .search-three, .search-four, .search-five {
+		width: 84%;
+	}
+	.main p {
+		margin-top: 68px;
+	}	
+}
+@media (max-width: 667px){
+	.main h1 {
+		margin-bottom: 46px;
+	}
+	.search, .search-two, .search-three, .search-four, .search-five {
+		width: 87%;
+	}
+	.main {
+		width: 80%;
+	}
+}
+@media (max-width: 640px){
+	
+}
+@media (max-width: 600px){
+	.main {
+		width: 89%;
+	}	
+}
+@media (max-width: 568px){
+.main h1 {
+    font-size: 37px;
+}
+.main {
+    padding: 60px 0;
+}
+.search, .search-two, .search-three, .search-four, .search-five {
+    width: 92%;
+}	
+}
+@media (max-width: 480px){
+	.search input[type="text"], .search-two input[type="text"], .search-three input[type="text"], .search-four input[type="text"], .search-five input[type="text"] {
+    width: 62%;
+	}
+	.main p {
+	line-height:1.8em;
+		font-size: 13px;
+	}
+}
+@media (max-width: 414px){
+	.search input[type="text"], .search-two input[type="text"], .search-three input[type="text"], .search-four input[type="text"], .search-five input[type="text"] {
+    width: 55%;
+	}
+	.search form input[type="submit"], .search-two form input[type="submit"], .search-three form input[type="submit"], .search-four form input[type="submit"], .search-five form input[type="submit"] {
+		width: 25%;
+	}
+	.main h1 {
+		font-size: 30px;
+	}
+	.main h1 {
+		margin-bottom: 25px;
+	}
+	.main {
+		padding: 38px 0;
+	}
+	.main p {
+		margin-top: 40px;
+	}
+	.search input[type="text"], .search-two input[type="text"], .search-three input[type="text"], .search-four input[type="text"], .search-five input[type="text"] {
+		font-size: 14px;
+	}
+	.search input[type="text"] {
+		background: url(../images/search.png) no-repeat 9px 8px #deebf1;
+	}
+	.search-two input[type="text"] {
+		background: url(../images/search.png) no-repeat 9px 8px #fff;
+	}
+	.search-three input[type="text"] {
+		background: url(../images/search.png) no-repeat 9px 8px #DAD5E8;
+	}
+	.search-four input[type="text"] {
+		background: url(../images/search.png) no-repeat 9px 8px #FBDCE2;
+	}
+	.search-five input[type="text"] {
+		background: url(../images/search.png) no-repeat 9px 8px #F3E8CD;
+	}
+	.search form input[type="submit"], .search-two form input[type="submit"], .search-three form input[type="submit"], .search-four form input[type="submit"], .search-five form input[type="submit"] {
+		padding: 5px 10px 6px 10px;
+	}
+	.search, .search-two, .search-three, .search-four, .search-five {
+		margin: 36px auto 0 auto;
+	}
+}
+@media (max-width: 384px){
+	.search input[type="text"], .search-two input[type="text"], .search-three input[type="text"], .search-four input[type="text"], .search-five input[type="text"] {
+		width: 54%;
+	}	
+}
+@media (max-width: 375px){
+	.search form input[type="submit"], .search-two form input[type="submit"], .search-three form input[type="submit"], .search-four form input[type="submit"], .search-five form input[type="submit"] {
+		font-size: 14px;
+	}
+	.search form input[type="submit"], .search-two form input[type="submit"], .search-three form input[type="submit"], .search-four form input[type="submit"], .search-five form input[type="submit"] {
+		width: 24%;
+	}
+	.search input[type="text"], .search-two input[type="text"], .search-three input[type="text"], .search-four input[type="text"], .search-five input[type="text"] {
+		width: 58%;
+		padding: 5px 12px 6px 37px;
+	}	
+.main h1 {
+    font-size: 27px;
+}
+}
+@media (max-width: 320px){
+	.search input[type="text"], .search-two input[type="text"], .search-three input[type="text"], .search-four input[type="text"], .search-five input[type="text"] {
+			font-size: 13px;
+		padding: 5px 7px 6px 31px;
+	}
+	.search form input[type="submit"], .search-two form input[type="submit"], .search-three form input[type="submit"], .search-four form input[type="submit"], .search-five form input[type="submit"] {
+		font-size: 13px;
+		width: 25%;
+			padding: 5px 6px 6px 6px;
+	}
+	.search, .search-two, .search-three, .search-four, .search-five {
+		margin: 20px auto 0 auto;
+	}
+	.main h1 {
+		font-size: 22px;
+	}
+}

@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% block head %}
+    {% load staticfiles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'css/home/custom.css' %}">
+    <style>
+    .nav-pills li{
+        background-color: gainsboro;
+    }
+    .{{ prediction }} a{
+        background-color: green;
+    }
+    </style>
+<title> index </title>
+{% endblock %}
+{% block body %}
+
+
+    <div class="infinite-container">
+
+    {%for item in my_list%}
+    <div class="infinite-item">
+    <div class="col-md-3">
+      <div class="thumbnail">
+  <a target="_blank" href="{{ item.link }} ">
+          <img src={{ item.image }} alt="Lights" style="width:304px;height:228px">
+          <div class="caption" style="height: 100px">
+            <p>&#8358 {{ item.price }}</p>
+              <img src={{ item.preview }} alt="light" style="float:right; width:50px;height:30px">
+            <p>{{ item.title }}</p>
+   </div>
+        </a>
+      </div>
+    </div>
+    </div>
+
+    {% endfor %}
+    </div>
+
+
+{% endblock %}
